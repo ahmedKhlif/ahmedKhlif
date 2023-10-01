@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khlif</h1>
 <h3 align="center">I am an IT student that currently studying in ISET Sfax Third year Bachelor in Computer Technologies DSI (Development of Computer Systems)</h3>
 
-<div style="width:100%;height:0;padding-bottom:111%;position:relative;">
-    <iframe src="https://giphy.com/embed/PjUGKdds3eGzfBzqJB" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+(https://staticg.sportskeeda.com/editor/2022/01/3b48f-16435721643382-1920.jpg)
 
 - 📫 How to reach me **khlifahmed1@gmail.com**
 
