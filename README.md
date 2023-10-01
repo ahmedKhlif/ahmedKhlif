@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khlif</h1>
-<h3 align="center">A full-stack develope</h3>
+<h3 align="center">I am an IT student that currently studying in ISET Sfax Third year Bachelor in Computer Technologies DSI (Development of Computer Systems)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedkhlif&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkhlif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkhlif" alt="ahmedkhlif" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **khlifahmed1@gmail.com**
 
