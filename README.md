@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khlif</h1>
 <h3 align="center">I am an IT student that currently studying in ISET Sfax Third year Bachelor in Computer Technologies DSI (Development of Computer Systems)</h3>
 
-<div style="width:100%;height:0;padding-bottom:111%;position:relative;"><iframe src="https://giphy.com/embed/PjUGKdds3eGzfBzqJB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hackernoon-laptop-macbook-hacker-noon-PjUGKdds3eGzfBzqJB">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:111%;position:relative;"><iframe src="https://giphy.com/embed/PjUGKdds3eGzfBzqJB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 📫 How to reach me **khlifahmed1@gmail.com**
 
